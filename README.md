@@ -8,7 +8,7 @@ Online Auction website is a Live Bidding platform built on ReactJS, where users 
 
 <h3>Clone</h3>
 
-Clone this repo to your local machine using https://github.com/UttamAdha96/Online-Auction-website.git
+Clone this repo to your local machine using https://github.com/Annapurna0311/UpBid.git
 
 <h3>Dependencies and installation</h3>
 <ul>
