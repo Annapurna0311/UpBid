@@ -12,7 +12,7 @@ Clone this repo to your local machine using https://github.com/Annapurna0311/UpB
 
 <h3>Dependencies and installation</h3>
 <ul>
-- Install server dependencies
+- Install server dependencies with server
 
 ```bash
 npm install
